@@ -6,6 +6,6 @@ description: This is just another page
 
 ## Welcome to news
 
-_yay_
+{% include carousel.html%}
 
 [back](./)
